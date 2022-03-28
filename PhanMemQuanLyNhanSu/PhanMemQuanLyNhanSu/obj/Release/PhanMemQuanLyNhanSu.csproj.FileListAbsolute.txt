@@ -1,0 +1,15 @@
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.csproj.ResolveComReference.cache
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.FormMain.resources
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.FormCapNhatTaiKhoan.resources
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.FormChamCong.resources
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.FormCheDo.resources
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.FormDangNhap.resources
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.FormDuAn.resources
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.FormLuong.resources
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.FormNhanVien.resources
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.FormPhanCong.resources
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.FormPhongBan.resources
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.Properties.Resources.resources
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\WORK\QLNS\QLNS_LinQ-master\QLNS\DACuoiKy-master\ADO\PhanMemQuanLyNhanSu\PhanMemQuanLyNhanSu\obj\Release\PhanMemQuanLyNhanSu.csproj.CoreCompileInputs.cache
